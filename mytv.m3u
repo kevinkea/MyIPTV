@@ -221,34 +221,27 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NewTV精品萌宠.png" group-title="NewTV系列",精品萌宠
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="黑莓动画",黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="黑莓电影",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="哒啵赛事",哒啵赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-
-#EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://live.fanmingming.com/tv/咪咕全民热练.png" group-title="咪咕全民热练",咪咕全民热练
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-电竞" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-电竞
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-足球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-足球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-体育" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-足球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-足球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-足球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-足球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="超清频道",欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
+
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="黑莓动画",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="黑莓电影",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="哒啵赛事",哒啵赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://live.fanmingming.com/tv/咪咕全民热练.png" group-title="咪咕全民热练",咪咕全民热练
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-电竞" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-电竞
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-足球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-足球
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-体育" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-足球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-足球
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-足球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-足球
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 #EXTINF:-1 tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="https://live.fanmingming.com/tv/石家庄新闻综合.png" group-title="地区",「河北」石家庄新闻综合
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
