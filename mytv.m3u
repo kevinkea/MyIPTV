@@ -242,11 +242,20 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频-足球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕视频",咪咕视频-足球
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
+#EXTINF:-1 tvg-id="河北经济生活" tvg-name="河北经济生活" tvg-logo="https://live.fanmingming.com/tv/河北经济生活.png" group-title="河北",河北经济生活
+http://27.185.1.27:8092/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="河北影视频道" tvg-name="河北影视频道" tvg-logo="https://live.fanmingming.com/tv/河北影视频道.png" group-title="河北",河北影视频道
+http://27.185.1.27:8092/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="河北都市频道" tvg-name="河北都市频道" tvg-logo="https://live.fanmingming.com/tv/河北都市频道.png" group-title="河北",河北都市频道
+http://27.185.1.27:8092/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="河北公共频道" tvg-name="河北公共频道" tvg-logo="https://live.fanmingming.com/tv/河北公共频道.png" group-title="河北",河北公共频道
+http://27.185.1.27:8092/hls/20/index.m3u8
+
 #EXTINF:-1 tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="https://live.fanmingming.com/tv/石家庄新闻综合.png" group-title="地区",「河北」石家庄新闻综合
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://live.fanmingming.com/tv/石家庄娱乐.png" group-title="地区",「河北」石家庄娱乐
-http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="地区",「河北」石家庄都市
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+#EXTINF:-1 tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="https://live.fanmingming.com/tv/石家庄娱乐.png" group-title="河北",「河北」石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png" group-title="河北",「河北」石家庄都市
 http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
-#EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="地区",「河北」石家庄生活
-http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+#EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="河北",「河北」石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
