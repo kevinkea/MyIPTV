@@ -260,7 +260,7 @@ http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="河北",「河北」石家庄生活
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="凤凰卫视HD" tvg-name="凤凰卫视HD" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视HD.png" group-title="台湾",凤凰卫视HD
+#EXTINF:-1 tvg-id="凤凰卫视HD" tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="台湾",凤凰卫视
 http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
@@ -301,7 +301,7 @@ http://61.221.81.93:8078/hls/34/80/ebc.m3u8
 #EXTINF:-1 tvg-id="AXN台湾" tvg-name="AXN台湾" tvg-logo="https://live.fanmingming.com/tv/AXN台湾.png" group-title="台湾",AXN台湾
 http://61.221.81.93:8078/hls/32/80/axn.m3u8
 
-#EXTINF:-1 tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://live.fanmingming.com/tv/星卫电影.png" group-title="台湾",星卫电
+#EXTINF:-1 tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://live.fanmingming.com/tv/星卫电影.png" group-title="台湾",星卫电影
 http://103.112.191.9:880/LAOSAT1082.m3u8
 #EXTINF:-1 tvg-id="卫视电影" tvg-name="卫视电影" tvg-logo="https://live.fanmingming.com/tv/卫视电影.png" group-title="台湾",卫视电影
 http://103.112.191.9:880/LAOSAT1085.m3u8
