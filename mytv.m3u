@@ -260,12 +260,14 @@ http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 #EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png" group-title="河北",「河北」石家庄生活
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="香港",凤凰卫视
-http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视HD" tvg-name="凤凰卫视HD" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视HD.png" group-title="台湾",凤凰卫视HD
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港",凤凰资讯
-http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港",凤凰香港
 http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港",星空卫视
+http://103.112.191.9:880/LAOSAT1016.m3u8
 
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",无线新闻台
 http://sc2022.stream-link.org/tv2306.php?id=h04
@@ -275,8 +277,6 @@ https://sc2022.stream-link.org/tv2306.php?id=h06
 https://sc2022.stream-link.org/tv2306.php?id=h02
 #EXTINF:-1 tvg-id="MYTVsuper" tvg-name="MYTVsuper" tvg-logo="https://live.fanmingming.com/tv/MYTVsuper.png" group-title="香港",MYTVsuper
 http://sc2022.stream-link.org/tv2306.php?id=c03
-#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾",民视
-http://sc2022.stream-link.org/tv2306.php?id=t17
 #EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://live.fanmingming.com/tv/民视旅游.png" group-title="台湾",民视旅游
 https://sc2022.stream-link.org/tv2306.php?id=t22
 #EXTINF:-1 tvg-id="天才冲冲冲" tvg-name="天才冲冲冲" tvg-logo="https://live.fanmingming.com/tv/天才冲冲冲.png" group-title="台湾",天才冲冲冲
@@ -285,28 +285,51 @@ https://sc2022.stream-link.org/tv2306.php?id=t25
 https://sc2022.stream-link.org/tv2306.php?id=t23
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://live.fanmingming.com/tv/中天亚洲.png" group-title="台湾",中天亚洲
 http://sc2022.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" group-title="台湾",莲花卫视
-https://sc2022.stream-link.org/tv2306.php?id=h18
 
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾",民视
+http://61.221.81.93:8078/hls/40/80/ftv.m3u8
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾",中视
+http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
+#EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://live.fanmingming.com/tv/中天综合.png" group-title="台湾",中天综合
+http://61.221.81.93:8078/hls/35/80/cti.m3u8
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://live.fanmingming.com/tv/八大第一台.png" group-title="台湾",八大第一台
+http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
+#EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://live.fanmingming.com/tv/八大戏剧台.png" group-title="台湾",八大戏剧台
+http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://live.fanmingming.com/tv/东森综合.png" group-title="台湾",东森综合
+http://61.221.81.93:8078/hls/34/80/ebc.m3u8
+#EXTINF:-1 tvg-id="AXN台湾" tvg-name="AXN台湾" tvg-logo="https://live.fanmingming.com/tv/AXN台湾.png" group-title="台湾",AXN台湾
+http://61.221.81.93:8078/hls/32/80/axn.m3u8
+
+#EXTINF:-1 tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://live.fanmingming.com/tv/星卫电影.png" group-title="台湾",星卫电
+http://103.112.191.9:880/LAOSAT1082.m3u8
+#EXTINF:-1 tvg-id="卫视电影" tvg-name="卫视电影" tvg-logo="https://live.fanmingming.com/tv/卫视电影.png" group-title="台湾",卫视电影
+http://103.112.191.9:880/LAOSAT1085.m3u8
+#EXTINF:-1 tvg-id="龙翔时代" tvg-name="龙翔时代" tvg-logo="https://live.fanmingming.com/tv/龙翔时代.png" group-title="台湾",龙翔时代
+http://103.112.191.9:880/LAOSAT1084.m3u8
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="台湾",中天娱乐
 http://162.19.247.76:22222/live/ztyl/index.m3u8
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾",台视
 http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾",华视
 http://162.19.247.76:22222/live/huashi/index.m3u8
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾",中视
-http://162.19.247.76:22222/live/zhongshi/index.m3u8
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="台湾",东森电影
 http://162.19.247.76:22222/live/dsdyt/index.m3u8
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://live.fanmingming.com/tv/东森洋片.png" group-title="台湾",东森洋片
 http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://live.fanmingming.com/tv/东森戏剧.png" group-title="台湾",东森戏剧
 http://162.19.247.76:22222/live/dsxj/index.m3u8
-#EXTINF:-1 tvg-id="DiscoverFilm" tvg-name="DiscoverFilm" tvg-logo="https://live.fanmingming.com/tv/DiscoverFilm.png" group-title="美国",DiscoverFilm
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="莲花电影" tvg-name="莲花电影" tvg-logo="https://live.fanmingming.com/tv/莲花电影.png" group-title="澳门",莲花电影
+http://103.112.191.9:880/LAOSAT1069.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="美国",HBO
 http://103.112.191.9:880/LAOSAT1089.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="美国",HBO
 http://185.188.188.235/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://live.fanmingming.com/tv/HBO2.png" group-title="美国",HBO2
+http://185.188.188.235/live/hbo2/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO中文" tvg-name="HBO中文" tvg-logo="https://live.fanmingming.com/tv/HBO中文.png" group-title="美国",HBO中文
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
+#EXTINF:-1 tvg-id="DiscoverFilm" tvg-name="DiscoverFilm" tvg-logo="https://live.fanmingming.com/tv/DiscoverFilm.png" group-title="美国",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://live.fanmingming.com/tv/NHK.png" group-title="日本",NHK
+http://61.221.81.93:8078/hls/32/80/nhk.m3u8
