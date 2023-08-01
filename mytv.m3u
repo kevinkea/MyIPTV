@@ -330,3 +330,23 @@ http://61.221.81.93:8078/hls/32/80/nhk.m3u8
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://live.fanmingming.com/tv/KCTV.png" group-title="韩国",KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 tvg-id="ST-TV" tvg-name="ST-TV" tvg-logo="https://live.fanmingming.com/tv/ST-TV.png" group-title="美国",ST-TV
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX NEWS" tvg-name="FOX NEWS" tvg-logo="https://live.fanmingming.com/tv/FOX.png" group-title="美国",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="https://live.fanmingming.com/tv/Newsmax.png" group-title="美国",Newsmax
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Moviesphere" tvg-name="Moviesphere" tvg-logo="https://live.fanmingming.com/tv/Moviesphere.png" group-title="美国",Moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Xplore" tvg-name="Xplore" tvg-logo="https://live.fanmingming.com/tv/Xplore.png" group-title="美国",Xplore
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BUZZR" tvg-name="BUZZR" tvg-logo="https://live.fanmingming.com/tv/BUZZR.png" group-title="美国",BUZZR
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EsportsMax" tvg-name="EsportsMax" tvg-logo="https://live.fanmingming.com/tv/EsportsMax.png" group-title="美国",EsportsMax
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PAC12" tvg-name="PAC12" tvg-logo="https://live.fanmingming.com/tv/PAC12.png" group-title="美国",PAC12
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN" tvg-name="RAKUTEN" tvg-logo="https://live.fanmingming.com/tv/RAKUTEN.png" group-title="美国",RAKUTEN
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://live.fanmingming.com/tv/NHK.png" group-title="日本",NHK
+http://103.112.191.9:880/LAOSAT1071.m3u8
