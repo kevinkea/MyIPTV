@@ -349,8 +349,6 @@ http://103.112.191.9:880/LAOSAT1071.m3u8
 #EXTINF:-1 tvg-id="MTN" tvg-name="MTN" tvg-logo="https://live.fanmingming.com/tv/MTN.png" group-title="韩国",MTN
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://live.fanmingming.com/tv/KCTV.png" group-title="韩国",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://live.fanmingming.com/tv/KCTV.png" group-title="韩国",KCTV
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://live.fanmingming.com/tv/KCTV.png" group-title="韩国",KCTV
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
