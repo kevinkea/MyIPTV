@@ -278,7 +278,7 @@ http://103.112.191.9:880/LAOSAT1068.m3u8
 #http://113.117.74.12:8081/hls/36/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港",凤凰香港
-http://113.117.74.12:8081/hls/38/index.m3u8
+http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="香港",天映频道
 http://103.112.191.9:880/LAOSAT1029.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港",星空卫视
@@ -350,5 +350,5 @@ http://103.112.191.9:880/LAOSAT1071.m3u8
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://live.fanmingming.com/tv/KCTV.png" group-title="韩国",KCTV
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://live.fanmingming.com/tv/KCTV.png" group-title="韩国",KCTV
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="韩国",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
