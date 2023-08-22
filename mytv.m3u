@@ -314,14 +314,10 @@ http://162.19.247.76:22222/live/dsypt/index.m3u8
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://live.fanmingming.com/tv/东森戏剧.png" group-title="台湾",东森戏剧
 http://162.19.247.76:22222/live/dsxj/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="美国",HBO4
-#http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="美国",HBO3
 http://185.188.188.235/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO2" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="美国",HBO2
 http://185.188.188.235/live/hbo2/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://live.fanmingming.com/tv/ESPN.png" group-title="美国",ESPN
-#http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="MYTIME" tvg-name="MYTIME" tvg-logo="https://live.fanmingming.com/tv/MYTIME.png" group-title="美国",MYTIME
 https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="MOVIESPHERE" tvg-name="MOVIESPHERE" tvg-logo="https://live.fanmingming.com/tv/MOVIESPHERE.png" group-title="美国",MOVIESPHERE
@@ -338,10 +334,10 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPORTSMAX" tvg-name="ESPORTSMAX" tvg-logo="https://live.fanmingming.com/tv/ESPORTSMAX.png" group-title="美国",ESPORTSMAX
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://live.fanmingming.com/tv/ESPN.png" group-title="美国",ESPN
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="PAC12" tvg-name="PAC12" tvg-logo="https://live.fanmingming.com/tv/PAC12.png" group-title="美国",PAC12
 https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MTN" tvg-name="MTN" tvg-logo="https://live.fanmingming.com/tv/MTN.png" group-title="韩国",MTN
-http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://live.fanmingming.com/tv/KCTV.png" group-title="韩国",KCTV
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-logo="https://live.fanmingming.com/tv/MBC.png" group-title="韩国",MBC
