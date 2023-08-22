@@ -169,7 +169,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
 #http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
 
-
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="湖南频道",金鹰纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="湖南频道",茶友频道
@@ -270,11 +269,9 @@ http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="凤凰卫视HD" tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="香港",凤凰卫视
-#http://103.112.191.9:880/LAOSAT1015.m3u8
 http://113.117.74.12:8081/hls/37/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港",凤凰资讯
-#http://103.112.191.9:880/LAOSAT1068.m3u8
 http://113.117.74.12:8081/hls/36/index.m3u8
 #http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港",凤凰香港
@@ -334,8 +331,6 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPORTSMAX" tvg-name="ESPORTSMAX" tvg-logo="https://live.fanmingming.com/tv/ESPORTSMAX.png" group-title="美国",ESPORTSMAX
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://live.fanmingming.com/tv/ESPN.png" group-title="美国",ESPN
-http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="PAC12" tvg-name="PAC12" tvg-logo="https://live.fanmingming.com/tv/PAC12.png" group-title="美国",PAC12
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://live.fanmingming.com/tv/KCTV.png" group-title="韩国",KCTV
