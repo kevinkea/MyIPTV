@@ -41,7 +41,7 @@ http://111.63.117.13:6060/030000001000/G_HEBEI/G_HEBEI.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://111.63.117.13:6060/030000001000/G_BEIJING/G_BEIJING.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://111.63.117.13:6060/030000001000/G_HUNAN/G_HUNAN.m3u8
+http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_HUNAN-MD/G_HUNAN-MD.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
@@ -90,3 +90,4 @@ http://111.63.117.13:6060/030000001000/G_YUNNAN/G_YUNNAN.m3u8
 http://111.63.117.13:6060/030000001000/G_NEIMENGGU/G_NEIMENGGU.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://111.63.117.13:6060/030000001000/G_XINJIANG/G_XINJIANG.m3u8
+
